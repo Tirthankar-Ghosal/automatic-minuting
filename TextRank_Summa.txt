@@ -1,0 +1,114 @@
+[PERSON54] No, no, this is the same link you can find in the –
+[PERSON27] <mmhm>, so (that's) –
+[PERSON27] Yes. So this Zoom link will also – <ehm> will also function the next time we <ehm> have the coffee meeting.
+[PERSON27] Perfect, I just –
+[PERSON54] So, I – I wanted (to note) that –
+[PERSON54] I – I – I want to know that how do you have (??)?
+[PERSON27] <ehm> Okay.
+[PERSON27] If I <ehm> –
+[PERSON27] <ehm> Do we have some chat here?
+[PERSON27] I also think –
+[PERSON27] (One more) thing is – is that they want to make it <ehm> –
+<ehm> So –
+Because (??) ([PERSON7] seems that) Zoom meeting link, it is (obvious) the – like <unrecognisable_speech>
+<ehm> But –
+[PERSON54] Oh –
+[PERSON54] <ehm> And then?
+<ehm> Mostly I –
+[PERSON54] So this is the – like – (??) by the participant, great.
+[PERSON27] Yes. This is mostly – it – this is what was created by [PERSON7] <ehm> within our [PROJECT1] minutes – [PROJECT1] meetings.
+[PERSON27] So there are <ehm> –
+[PERSON54] Okay, so I would like to ask you now –
+[PERSON27] This is just for what?
+[PERSON27] <ehm> Yes, <ehm> we try to get original minutes from the minu- meeting organisers, but sometimes <ehm> it may be very short for example, for –
+[PERSON27] And I put in –
+[PERSON54] You put it (??).
+[PERSON27] <ehm> Now it works the same, we din't – we didn't change it yet.
+<ehm> So ([PERSON7]) proposes that annotators do that themselves.
+[PERSON55] <ehm> Sorry to interupt you Anja, I think that [PERSON7] already decided not to include – not to <ehm> let them <parallel_talk> Yes.
+[PERSON27] Yes, but after (??) –
+[PERSON27] Well, well –
+[PERSON55] (??) what you will –
+[PERSON27] Not too long, but he- s kind of <ehm> –
+[PERSON27] Probably (we should) –
+[PERSON55] So, [PERSON27] –
+[PERSON27] Not exclude this option for the moment, <ehm> but –
+[PERSON55] Okay, so, [PERSON27], I – yeah I – so – so this is like you <unrecognisable_speech> to upload the minute (??) correct, so this is actually a (list) work for us.
+[PERSON55] Like if the annotators up- upload the minute themselves, so –
+[PERSON27] Actually I'm not really fine with that at the moment, because for me – <ehm> I should think it over and I didn't do it yet.
+[PERSON55] I – I think the same [PERSON27], I absolutely agree with you.
+[PERSON27] So probably let's – yes.
+[PERSON54] So, <unrecognisable_speech> [PERSON27], so <ehm> – so <ehm> – let – [PERSON55] said in the morning –
+[PERSON54] No, no.
+[PERSON27] <ehm> (??), could I ask you, please, now, if you could write this very question very explicitly somewhere into – into the agenda.
+[PERSON54] – Google doc.
+[PERSON27] <mmhm> Well, I – <ehm> now I understand it.
+So this is what – <ehm>
+if you would ask [PERSON7] this question he would probably say that <ehm> (??) think about it and <ehm> make o <ehm> or invent the measure or metric for – for that.
+[PERSON54] Do you think this alignment –
+[PERSON54] First, alignment first, manual evaluation measure –
+[PERSON27] Okay –
+[PERSON27] <ehm> (??) I don't think about it.
+[PERSON27] Because –
+[PERSON54] So this –
+[PERSON27] Rather <ehm> –
+either think with [PERSON53] about <ehm> – about that or <ehm> think <ehm> with [PERSON53], [PERSON55] and [PERSON7], not me, I don't know.
+[PERSON27] <ehm> Do we –
+[PERSON27] How many what?
+[PERSON54] How many – how many automatic measures have you  tried?<ehm>
+[PERSON27] Let –
+[PERSON55] <mmhm> No, it's not very subjective, it's like –
+I – I – I got – I go- got the (multimission) of <ehm> the (??) meeting script, but still that is like the (??) that [PERSON7] <ehm> is targetting to achieve <ehm> would you be more objective?
+[PERSON55] <ehm> Yes, I mean –
+[PERSON54] Yeah, so <parallel_talk> So – <parallel_talk> if we – if we are like – if we are not able to come up with the alignment <ehm>, if we are not able to come up with the alignment based <ehm> manual evaluation measure, –
+[PERSON54] We go with – we go with the (??), the <unrecognisable_speech>
+[PERSON27] Okay, so may I – may I summarise it, please?
+So <ehm> –
+[PERSON27] So –
+[PERSON54] <mmhm> Yes. Yes, so <ehm> – so the thing is that <ehm> my <ehm> <unrecognisable_speech> before November it would be difficult to come up with the alignment (this score), so <ehm> for the (past) shared task that we have (way) to propose (??) speech,
+[PERSON55] So this – this –
+[PERSON54] <ehm> I'm talking to you (??).
+[PERSON27] <ehm> I kind of don't know what to say.
+[PERSON27] <ehm> <parallel_talk> Yeah, so – <parallel_task> so, <ehm> what I wanted to discuss <ehm> is probably <ehm> the format of the basic sample trial.
+But this is – I think we should read (with) this – that format before [PERSON2] <ehm> appears and discuss it with [PERSON2].
+[PERSON27] So this –
+my – my point of how to create basic samples should be discussed with [PERSON2] before we <ehm> go on.
+And then I <ehm> –
+wh- when [PERSON2] appears <ehm> I will discussed – <ehm> discuss with him, if his annotation tool can work with the (??) samples,
+And <ehm>, as for the data format, this is also a point with [PERSON55] <ehm> – 
+[PERSON55] As for the data format I'm already clear, like it's what we discussed like the three – three sections in each (file).
+[PERSON55] So this is – I think this is the <ehm> –
+[PERSON27] Yes, this is –
+[PERSON55] Yes, sure, because – 
+[PERSON27] But, yes yes, but –
+[PERSON55] But I think this is a –
+[PERSON55] I think for this we are okay, but we didn't have time in the morning to discuss about some other details, like <ehm> anonymisation of – anonymi- anonymisation of the names of this annotators.
+[PERSON27] [PERSON55], lwt's do it –
+<ehm> So, an I –
+[PERSON27] So, now we are <ehm> looki-
+[PERSON55] <ehm> No, we will keep both of them.
+[PERSON27] Who – who does all that Github <ehm> things?
+[PERSON27] Yes, yes –
+[PERSON55] From (zac) – from (zac) you will put annot01, like anonymise the name.
+[PERSON27] <ehm> When?
+[PERSON27] So –
+[PERSON27] Somebody –
+[PERSON27] Yes, so this is – this is what –
+[PERSON55] Yes, I told you, annot01 is like –
+[PERSON55] yes, but before that I also have –
+[PERSON55] [PERSON7] would be – better to have also [PERSON7],
+So, I think [PERSON7] –
+[PERSON27] So, just (??) –
+[PERSON27] So <ehm> –
+[PERSON55] So –
+[PERSON27] I'll write him and you now and –
+[PERSON55] Yes, try to – we try to catch him.
+[PERSON55] 
+[PERSON27] Yes, not today, I am already at home – <parallel_talk> <unrecognisable_speech> <parallel_talk>
+[PERSON54] Yes, (??) something like the meeting of today, you were also present (??) –
+the thing is that we have to like wait for [PERSON2] (??) to actually <ehm> (??) that – (??) this annotation tool composed (for new) (??) (idea).
+[PERSON27] Could you – could it – could you please send it to [PERSON53]?
+[PERSON27] No.
+[PERSON55] <ehm> No, I mean I definitely – (with) definitely (??) with [PERSON7] to –
+We cannot really discuss anything without [PERSON7], because <ehm> –
+[PERSON27] You too.

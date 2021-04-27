@@ -1,0 +1,2 @@
+<ehm> So I still kind of – so at the moment I do not have any idea hw to technically work with the variant that annotators send the data via (Github).
+<ehm> Okay, so- suppose they does speak a scenario that we don't come up with a manual evaluation measure, before the shared task, so, what options we have.

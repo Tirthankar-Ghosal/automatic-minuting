@@ -1,0 +1,44 @@
+SUMMARY:
+And maybe I'll ask you before anybody else is <ehm> (connecting),
+<ehm> how is it – how does it work with the link? [PERSON27] Perfect, I just –
+[PERSON54] So I'll also put – I'll also put the Zoom link as well as the (Google) link, so (??) (But) Zoom is like, you know, much bigger than Google meet. [PERSON27] I also think –
+[PERSON54] And we have problems. [PERSON54] But more then one hour (you have to pay). <ehm> I will try <ehm> to make a very <ehm> short presentation how I do that. After that <ehm> he <ehm> writes <ehm> from (stretch) the minutes and send them to me. [PERSON27] This is <ehm> just what [PERSON7] created duri-
+the agenda for the minutes. extended during the meetings, or sometimes after the meeting. But this is kind of work version of what really was. PERSON7] and [PERSON42] (has) created, so it is just for (reference of the annotators). But after we change it –
+So we didn't change anything yet, so actually <ehm>, probably you have to change it. We proposed that they will send the data to us. So we sould be absolutely happy with that. [PERSON27] So let's not think about it at the moment if possible. by which we can use the alignment to produce something. [PERSON27] <mmhm>
+[PERSON54] Great, so, we do alignment, (??) I'm not sure <ehm> –
+first I'm not sure that I understand what you ask and second I'm not sure  – I'm not sure I can answer. I'd rather think that answer should go from other source. And we have the intuition <ehm> based on some experiment- experiments with other data, that it would help. <ehm> Do you think that we should include what, evaluation measure? [PERSON27] <mm> But <unrecognisable_speech> none of them works as ([PERSON53]) realised. [PERSON55] There is how most of the like evaluations are done in the community, in the literature. And they like try to assess different aspects like (??) And the (liker giving) skills, okay, but still I would believe that it is subjective. the <unrecognisable_speech>
+[PERSON55] Yes, sure, sure. [PERSON27] Okay, so may I – may I summarise it, please? Yes, so <ehm> – so the thing is that <ehm> my <ehm> <unrecognisable_speech> before November it would be difficult to come up with the alignment (this score), so <ehm> for the (past) shared task that we have (way) to propose (??) [PERSON55] So this – this –
+you were talking to [PERSON27] or to me? [PERSON54] <ehm> I'm talking to you (??). And <ehm>, as for the data format, this is also a point with [PERSON55] <ehm> – 
+[PERSON55] As for the data format I'm already clear, like it's what we discussed like the three – three sections in each (file). [PERSON55] So this is – I think this is the <ehm> –
+so it's almost like I said, but you can –
+I said to remove the meta-data,
+you can put them with <ehm> – with a (label) in your (??) [PERSON27] Yes, yes, <mmhm>.
+[PERSON55] I think for this we are okay, but we didn't have time in the morning to discuss about some other details, like <ehm> anonymisation of – anonymi- anonymisation of the names of this annotators. Before <ehm> (a create) in Github or it doesn't – <ehm> or it doesn't –
+[PERSON55] Before pushing, before pushing to Github. [PERSON27] So –
+[PERSON55] Yes, sure, before pushing. [PERSON27] <aha> Yeah, so before pushing. (Do you) let me know if something concers me?
+
+SUMMARY:
+And maybe I'll ask you before anybody else is <ehm> (connecting),
+<ehm> how is it – how does it work with the link? [PERSON27] Perfect, I just –
+[PERSON54] So I'll also put – I'll also put the Zoom link as well as the (Google) link, so (??) [PERSON27] If I <ehm> –
+if we look at it together and I will just <ehm> detailise some things that you want to know <ehm> –
+so <ehm>, <ehm> I will send you a link to minutes annotation, so that you can open it now. [PERSON27] So how is it possible that some link is working and another doesn't? (But) Zoom is like, you know, much bigger than Google meet. [PERSON54] But more then one hour (you have to pay). <typing>
+[PERSON27] <mmhm>
+[PERSON54] Okay. <ehm> I will try <ehm> to make a very <ehm> short presentation how I do that. extended during the meetings, or sometimes after the meeting. And they discuss the book, not detailise it anymore. But after we change it –
+So we didn't change anything yet, so actually <ehm>, probably you have to change it. [PERSON27] This is the question we discussed today in the morning. <ehm> So I still kind of –
+so at the moment I do not have any idea hw to technically work with the variant that annotators send the data via (Github). I really have to upload the data and it takes time. [PERSON55] I – I think the same [PERSON27], I absolutely agree with you. I would not (ask) this persons to push in (Github) <parallel_talk> Yes. [PERSON54] So, <unrecognisable_speech> [PERSON27], so <ehm> – so <ehm> – let – [PERSON55] said in the morning –
+I also like –
+to some extent I thought and I – I think I also believe to some extent –
+so – <ehm> (??) [PERSON27] <mmhm>
+[PERSON54] So how are we going to use the alignment in evaluation? <typing>
+What is the measure or mid-check of this activity? Probably I'm a little bit sceptic now, but <ehm> I – I really think that at the moment it is not solved. maybe [PERSON55] also knows, none of them really works well. So, we need the na- next try human evaluation, (decides) them, we compute them, but we add the number of human evaluation, so that we can <ehm> be sure that we have good  quality. [PERSON55] There is how most of the like evaluations are done in the community, in the literature. And the (liker giving) skills, okay, but still I would believe that it is subjective. the <unrecognisable_speech>
+[PERSON55] Yes, sure, sure. [PERSON27] So <ehm> really <ehm> we want to use <ehm> alignment annotation for summarisation, this is variant A.
+But we have <ehm> (little) time and very probably we don't have to <ehm> prepare this alignments. [PERSON55] So this – this –
+you were talking to [PERSON27] or to me? So for now I don't prepare any basic samples more. And <ehm>, as for the data format, this is also a point with [PERSON55] <ehm> – 
+[PERSON55] As for the data format I'm already clear, like it's what we discussed like the three – three sections in each (file). [PERSON55] So this is – I think this is the <ehm> –
+so it's almost like I said, but you can –
+I said to remove the meta-data,
+you can put them with <ehm> – with a (label) in your (??) Before <ehm> (a create) in Github or it doesn't – <ehm> or it doesn't –
+[PERSON55] Before pushing, before pushing to Github. [PERSON27] So –
+[PERSON55] Yes, sure, before pushing. [PERSON27] <aha> Yeah, so before pushing. this annotation tool composed (for new) (??) ( [PERSON27] But anyway, I would rather probably finish it for today. Okay –
+[PERSON27] So, have a nice evening, everybody. I 'm not, you know, wanting is like, yes?

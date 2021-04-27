@@ -1,0 +1,109 @@
+Do you create a next different link every time (with) – have a meeting?
+[PERSON27] Yes. So this Zoom link will also – <ehm> will also function the next time we <ehm> have the coffee meeting.
+we can use it <ehm> like for – for all (of our meetings), so –
+[PERSON27] Yes, okay, nice.
+So, [PERSON27], so (??) let discuss some things, okay?
+[PERSON27] So our output is ma- manually corrected minutes and manually corrected transcript.
+[PERSON54] I – I – I want to know that how do you have (??)?
+so <ehm>, <ehm> I will send you a link to minutes annotation, so that you can open it now.
+[PERSON27] <ehm> (??) is right that Zoom is not working (for) (??).
+[PERSON27] So how is it possible that some link is working and another doesn't?
+(But) Zoom is like, you know, much bigger than Google meet.
+[PERSON27] And especially I can hear much better with Zoom than with Google meet.
+[PERSON27] Google meet.
+[PERSON27] Oh, one hour, okay.
+[PERSON54] But Google meet is also free for fourty minutes, but I want to (??) [PERSON27], how like <ehm> [PERSON7] <ehm> like (be have got like the paid for (??) Zoom).
+Because (??) ([PERSON7] seems that) Zoom meeting link, it is (obvious) the – like <unrecognisable_speech>
+[PERSON27] There are some Zooms that we prepaid, but <ehm> I'm not sure if it's a good option for lo- for our coffee m- coffee meetings.
+[PERSON54] So [PERSON27], could you – could you respond to (??), like if he can (reensolve) Zoom and (then join), because in Google meet it is really difficult to hear.
+So we have transcripts with really bad automatic quality, which I send to the annotator and ask him to correct the data.
+[PERSON27] He creates the minutes, yes.
+[PERSON27] Yes. This is mostly – it – this is what was created by [PERSON7] <ehm> within our [PROJECT1] minutes – [PROJECT1] meetings.
+[PERSON54] Okay, so I would like to ask you now –
+So, by this original meetings, what (??) [PERSON7] and [PERSON42] (has) created, so it is just for (reference of the annotators).
+so I cannot actually say that they are worse that the min- minutes created by annotators.
+It is actually a questions, because there are some drawbacks of those originnal minutes, because <ehm> they do not contain some information or they may contain something that was not discussed during the meeting.
+[PERSON54] So, not all the meetings has the original minutes, right?
+[PERSON27] <ehm> Yes, <ehm> we try to get original minutes from the minu- meeting organisers, but sometimes <ehm> it may be very short for example, for –
+[PERSON54] <ehm> No. I want to say that (support) after the team watch them, where from (today look the) (??).
+[PERSON27] This is the question we discussed today in the morning.
+<ehm> So ([PERSON7]) proposes that annotators do that themselves.
+so at the moment I do not have any idea hw to technically work with the variant that annotators send the data via (Github).
+[PERSON7] – [PERSON7] is very much for that so that we really do that (Github) team and they can push and pull the data to the Github.
+I have to say them 'Now you <ehm> write this and that – this meeting' <ehm>, I have to correct it, so I have to look if their transcript and the minutes are <ehm> okay.
+[PERSON55] <ehm> Sorry to interupt you Anja, I think that [PERSON7] already decided not to include – not to <ehm> let them <parallel_talk> Yes.
+[PERSON27] [PERSON55], not really, because afterwards, after that meeting, he said me many times h- that he still s- sees that it should be maybe changed.
+[PERSON55] Okay, <laugh> so then we need another meeting I guess.
+then we need another meeting with [PERSON7].
+[PERSON55] Okay, so, [PERSON27], I – yeah I – so – so this is like you <unrecognisable_speech> to upload the minute (??) correct, so this is actually a (list) work for us.
+[PERSON55] Like if the annotators up- upload the minute themselves, so –
+[PERSON27] Actually I'm not really fine with that at the moment, because for me – <ehm> I should think it over and I didn't do it yet.
+[PERSON55] I – I think the same [PERSON27], I absolutely agree with you.
+I would not (ask) this persons to push in (Github) <parallel_talk> Yes.
+[PERSON27] So probably let's – yes.
+Now it's absolutely okay, that we just send them the data.
+[PERSON27] So let's not think about it at the moment if possible.
+[PERSON27] Aou want me to repeat why you need the alignment?
+[PERSON54] Great, so, we do alignment, (??) fine, the manual (??) are done, but what is the final output?
+[PERSON27] Because I think <ehm> there should be a total understand– understanding between us what do you mean.
+[PERSON54] So how are we going to use the alignment in evaluation?
+if you would ask [PERSON7] this question he would probably say that <ehm> (??) think about it and <ehm> make o <ehm> or invent the measure or metric for – for that.
+So I've like – I – I would pick up from this (here), so the thing is that <ehm> meeting or coming up with that measure want to be that much busy.
+[PERSON54] Do you think this alignment –
+[PERSON54] First, alignment first, manual evaluation measure –
+I think this is the (??) you should discuss in more detail with [PERSON7].
+<ehm> Okay, so- suppose they does speak a scenario that we don't come up with a manual evaluation measure, before the shared task, so, what options we have.
+So the options that we have is – we have the transcript, which is manually corrected, we have the minute, which is the (??),  contains the (??) summary.
+And then <ehm> we (reuse) the data and we evaluate the submissions based on automatic measure.
+[PERSON54] There are many automatic measures for (summarisation).
+<ehm> so in summarising paper on that (??) maybe [PERSON55] also knows, none of them really works well.
+[PERSON55] Well I wouldn't say none of them really works (well), I would say that they are kind of deceptive in some cases like they tch- they are very high – very high (??) –
+But we add another human evaluation score, that was the point of <ehm> th- that I wrote the protocol, like try to come up with some tips.
+But that human evaluation (??) should be like very subjective and (??), right?
+[PERSON55] <mmhm> No, it's not very subjective, it's like –
+[PERSON55] There is how most of the like evaluations are done in the community, in the literature.
+Like have a summary or a text and we compare it with the reference and we have the annotators th- to compare it.
+I – I – I got – I go- got the (multimission) of <ehm> the (??) meeting script, but still that is like the (??) that [PERSON7] <ehm> is targetting to achieve <ehm> would you be more objective?
+[PERSON55] <ehm> Yes, I mean –
+Okay, so, like –
+Okay, so the thing is that if we don't come up <ehm> with the alignment based manual evaluation (??), we will do as the normally the other (energy) task (??) <ehm> entries, right?
+[PERSON54] Yeah, so <parallel_talk> So – <parallel_talk> if we – if we are like – if we are not able to come up with the alignment <ehm>, if we are not able to come up with the alignment based <ehm> manual evaluation measure, –
+That's – yes, okay, why not.
+[PERSON27] Okay, so may I – may I summarise it, please?
+[PERSON27] So <ehm> really <ehm> we want to use <ehm> alignment annotation for summarisation, this is variant A.
+And in this case we follow variant B, and this is using <ehm> human evaluation like readibility and so on, not using the alignment.
+[PERSON54] <mmhm> Yes. Yes, so <ehm> – so the thing is that <ehm> my <ehm> <unrecognisable_speech> before November it would be difficult to come up with the alignment (this score), so <ehm> for the (past) shared task that we have (way) to propose (??) speech,
+I know there are many autoatic measures for summarisation so if we like just put those <ehm> in the proposal <ehm> (no one we) question?
+[PERSON27] <ehm> I kind of don't know what to say.
+[PERSON27] you wanted to discuss something?
+[PERSON27] <ehm> <parallel_talk> Yeah, so – <parallel_task> so, <ehm> what I wanted to discuss <ehm> is probably <ehm> the format of the basic sample trial.
+But this is – I think we should read (with) this – that format before [PERSON2] <ehm> appears and discuss it with [PERSON2].
+my – my point of how to create basic samples should be discussed with [PERSON2] before we <ehm> go on.
+wh- when [PERSON2] appears <ehm> I will discussed – <ehm> discuss with him, if his annotation tool can work with the (??) samples,
+[PERSON55] As for the data format I'm already clear, like it's what we discussed like the three – three sections in each (file).
+[PERSON27] Yes, meta-data and dashes, dashes is important.
+[PERSON55] I think for this we are okay, but we didn't have time in the morning to discuss about some other details, like <ehm> anonymisation of – anonymi- anonymisation of the names of this annotators.
+You (will keep) a list, where (Zac) is like (Zac) what – I don't know is her name and then you put annot01, as a (sample) example.
+[PERSON27] Yes, I know, but st-
+[PERSON27] Who – who does all that Github <ehm> things?
+[PERSON55] From (zac) – from (zac) you will put annot01, like anonymise the name.
+[PERSON55] Yes, sure, before pushing.
+[PERSON27] Yes, this is clear.
+[PERSON27] Perfect, so this is okay, yes.
+[PERSON27] This is what I like.
+[PERSON55] Yes, I told you, annot01 is like –
+[PERSON27] Yes, yes, in this case it is a (??), so nw my task is to rename the files.
+I mean, I also propose some other things but you didn't have time to discuss them, so, I'm not sure –
+so maybe it's better to set up another meeting, like today –
+[PERSON55] Yes it would be very good.
+[PERSON55] Probably, tomorrow morning or evenyou want today afternoon or some time?
+[PERSON27] (??) meeting tomorrow morning.
+[PERSON27] Yes, not today, I am already at home – <parallel_talk> <unrecognisable_speech> <parallel_talk>
+[PERSON55] Yes, sure.
+[PERSON55] Yes, sure.
+[PERSON54] Yes, (??) something like the meeting of today, you were also present (??) –
+the thing is that we have to like wait for [PERSON2] (??) to actually <ehm> (??) that – (??) this annotation tool composed (for new) (??) (idea).
+[PERSON54] I think the meeting pass-
+[PERSON54] <mmhm> Yeah, okay.
+[PERSON54] ([PERSON55]), anything else you want to discuss?
+I 'm not, you know, wanting is like, yes?
